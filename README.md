@@ -8,6 +8,8 @@
 
 ### Detailed Description 
 
+* Dashboard URL - https://learn.looker.com/dashboards-next/1287
+
 * There are 9 tiles in this dashboard that presents the inventory being managed during the past quarter:
 	* Warehouse Locations [Map]
 	* Customer Proximity to Warehouses [Map]
@@ -34,6 +36,13 @@
 ### Usage
 
 * Open either the Inventory Management Dashboard.pdf file to view the dashboard output or the Looker_Inventory_Management_Dashboard_LookML.md to review the LookML code 
+
+![image](https://user-images.githubusercontent.com/46364751/114221447-5601a280-993b-11eb-9f9b-175f5600e32a.png)
+
+![image](https://user-images.githubusercontent.com/46364751/114221481-5ef27400-993b-11eb-9d0d-e37709393b05.png)
+
+![image](https://user-images.githubusercontent.com/46364751/114221523-6a459f80-993b-11eb-9b82-ce33fa59e759.png)
+
 
 ### License / Citation
 
